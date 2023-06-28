@@ -13,7 +13,7 @@ class ClientSecret implements RegexCollectionInterface
 
     public function getTestableString(): string
     {
-        return 'MaOiS~kjLPSgD_j8hwk4A03AGpS413thq6EQ8gp9';
+        return 'MaOiS~kjLPSgD_j8hwk4A03AGpS413thq6EQ94fG';
     }
 
     public function isSecret(): bool
